@@ -10,10 +10,10 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.svg" alt="Project license" title="Project license"/>
     </a>
     <a href="https://internal-domain-name-calculator-for-truecharts-apps.johng.io/" title="Project URL">
 			<img src="https://img.shields.io/website?url=https%3A%2F%2Finternal-domain-name-calculator-for-truecharts-apps.johng.io&up_message=internal-domain-name-calculator-for-truecharts-apps.johng.io%20%E2%86%97" alt="Project URL" title="Project URL">
@@ -42,7 +42,7 @@ Based on information from the [TrueCharts documentation](https://truecharts.org/
    - Node.js and NPM. (see [nodejs.org](https://nodejs.org/) for more details)
    - `gulp-cli` with `npm install --global gulp-cli`
 2. Download the source code:
-   - Clone the repo with `https://github.com/jerboa88/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.git`, or
+   - Clone the repo with `https://github.com/twocaretcat/Internal-Domain-Name-Calculator-for-TrueCharts-Apps.git`, or
    - Download the repository as a zip file and extract it
 3. Enter the project root with `cd Internal-Domain-Name-Calculator-for-TrueCharts-Apps`.
 4. Use `npm install` to install the app and all of its dependencies.
