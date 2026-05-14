@@ -5,6 +5,9 @@
   "scripts": {
     "dev": "gulp dev",
     "build": "gulp build",
+    "lint": "biome lint",
+    "lint:write": "biome lint --write",
+    "format:write": "biome format --write",
     "test": "gulp test",
     "start": "gulp serve"
   },
@@ -29,6 +32,7 @@
   },
   "homepage": "https://github.com/twocaretcat/Internal-Domain-Name-Calculator-for-TrueCharts-Apps",
   "devDependencies": {
+    "@biomejs/biome": "2.4.15",
     "cypress": "^14.4.0",
     "gulp": "^5.0.0",
     "gulp-connect": "^5.7.0",
