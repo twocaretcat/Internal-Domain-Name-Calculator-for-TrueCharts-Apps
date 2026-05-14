@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		output.textContent = domainName;
 
-		output.addEventListener('click', function () {
+		output.addEventListener('click', () => {
 			copyToClipboard(domainName);
 			notifyUser('Copied to clipboard!');
 		});
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		document.body.appendChild(notification);
 
-		setTimeout(function () {
+		setTimeout(() => {
 			document.body.removeChild(notification);
 		}, notificationTimeout);
 	}
